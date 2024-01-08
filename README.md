@@ -18,8 +18,11 @@
 
  oyunlar.txt (Kitap adlarının verileri)
  hakkinda.txt (Kitap özetlerinin verileri)
+ 
  Toplam oyun sayısı: 1362
+ 
  Oyun Tanımlarında Geçen Kelime Sayısı : 5466
+ 
 
 Veriler adi ve  hakkinda iki kolonu olan bir DataFrame'e aktarıldı.
 

@@ -30,14 +30,6 @@ Veriler adi ve  hakkinda iki kolonu olan bir DataFrame'e aktarıldı.
 	
  from simplemma import text_lemmatizer
 
- import pandas as pd
-
- import numpy as np
-
- import ast
-
- import re
-
  from selenium import webdriver
 
  from selenium.webdriver.chrome.service import Service
@@ -57,6 +49,7 @@ Veriler adi ve  hakkinda iki kolonu olan bir DataFrame'e aktarıldı.
 ![3](https://github.com/gorkemenes/benzer_oyun_bulma_projesi/assets/91761679/c3c50678-c949-4ebd-8b73-1a5060e75b9a)
 
 **SÖZLÜK ÖRNEKLERİ **
+ 
  'yük': 57,
  
  'kamyon': 58,
